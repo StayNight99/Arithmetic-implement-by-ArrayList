@@ -1,0 +1,7 @@
+C:\Users\StayNight99\source\repos\1012\Hw4_Q36071164_簡宇廷_3\Hw4_Q36071164_簡宇廷_3\obj\Debug\Hw4_Q36071164_簡宇廷_3.csprojAssemblyReference.cache
+C:\Users\StayNight99\source\repos\1012\Hw4_Q36071164_簡宇廷_3\Hw4_Q36071164_簡宇廷_3\obj\Debug\Hw4_Q36071164_簡宇廷_3.csproj.CoreCompileInputs.cache
+C:\Users\StayNight99\source\repos\1012\Hw4_Q36071164_簡宇廷_3\Hw4_Q36071164_簡宇廷_3\bin\Debug\Hw4_Q36071164_簡宇廷_3.exe.config
+C:\Users\StayNight99\source\repos\1012\Hw4_Q36071164_簡宇廷_3\Hw4_Q36071164_簡宇廷_3\bin\Debug\Hw4_Q36071164_簡宇廷_3.exe
+C:\Users\StayNight99\source\repos\1012\Hw4_Q36071164_簡宇廷_3\Hw4_Q36071164_簡宇廷_3\bin\Debug\Hw4_Q36071164_簡宇廷_3.pdb
+C:\Users\StayNight99\source\repos\1012\Hw4_Q36071164_簡宇廷_3\Hw4_Q36071164_簡宇廷_3\obj\Debug\Hw4_Q36071164_簡宇廷_3.exe
+C:\Users\StayNight99\source\repos\1012\Hw4_Q36071164_簡宇廷_3\Hw4_Q36071164_簡宇廷_3\obj\Debug\Hw4_Q36071164_簡宇廷_3.pdb
